@@ -10,7 +10,7 @@ import org.usfirst.frc.team6166.robot.Robot;
  */
 public class ExampleCommand extends Command {
 
-	System.out.println("My Mom is Dead");
+	System.out.println("JK");
 	
     public ExampleCommand() {
         // Use requires() here to declare subsystem dependencies
